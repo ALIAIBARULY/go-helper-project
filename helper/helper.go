@@ -1,8 +1,8 @@
 package helper
 
 import (
-	"project/mathutils"
-	"project/stringutils"
+	"github.com/ALIAIBARULY/go-helper-project/mathutils"
+	"github.com/ALIAIBARULY/go-helper-project/stringutils"
 )
 
 func Add(a, b int) int {
